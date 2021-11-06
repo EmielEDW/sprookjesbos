@@ -12,7 +12,7 @@
 
 ### Links
 
-- Live Site URL: (https://emieledw.github.io/sprookjesbos/Sprookjesbos/index.html)
+- Live Site URL: (https://emieledw.github.io/sprookjesbos/sprookjesbos/index.html)
 
 ## My process
 
